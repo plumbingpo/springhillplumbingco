@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://springhillplumbingco.com/sitemap.xml
